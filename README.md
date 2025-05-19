@@ -1,1 +1,1 @@
-# JS training
+# JS
